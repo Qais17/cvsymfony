@@ -1,0 +1,4 @@
+cv_symfony:
+    resource: "@CvSymfonyBundle/Controller/"
+    type:     annotation
+    prefix:   /
